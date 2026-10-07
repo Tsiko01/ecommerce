@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520">
+  <defs>
+    <linearGradient id="cup" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#474747"/><stop offset="1" stop-color="#101010"/></linearGradient>
+    <linearGradient id="band" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#555"/><stop offset=".5" stop-color="#151515"/><stop offset="1" stop-color="#333"/></linearGradient>
+    <filter id="shadow" x="-.3" y="-.3" width="1.6" height="1.8"><feGaussianBlur stdDeviation="10"/></filter>
+  </defs>
+  <ellipse cx="300" cy="442" rx="180" ry="19" fill="#111" opacity=".14" filter="url(#shadow)"/>
+  <path d="M155 281V195a145 145 0 0 1 290 0v86" fill="none" stroke="#161616" stroke-width="39" stroke-linecap="round"/>
+  <path d="M174 250v-55a126 126 0 0 1 252 0v55" fill="none" stroke="url(#band)" stroke-width="22" stroke-linecap="round"/>
+  <rect x="126" y="243" width="100" height="169" rx="39" fill="url(#cup)"/>
+  <rect x="374" y="243" width="100" height="169" rx="39" fill="url(#cup)"/>
+  <rect x="143" y="260" width="67" height="135" rx="27" fill="#080808"/>
+  <rect x="390" y="260" width="67" height="135" rx="27" fill="#080808"/>
+  <path d="M155 281q24-22 54 0v98q-25 23-54 0zM391 281q24-22 54 0v98q-25 23-54 0z" fill="#252525"/>
+  <path d="M163 275v111M400 275v111" stroke="#646464" stroke-width="3" opacity=".5"/>
+  <circle cx="176" cy="333" r="8" fill="#d87d4a"/><circle cx="424" cy="333" r="8" fill="#d87d4a"/>
+</svg>

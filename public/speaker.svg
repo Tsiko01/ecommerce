@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 520">
+  <defs><linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#343434"/><stop offset=".55" stop-color="#131313"/><stop offset="1" stop-color="#050505"/></linearGradient><pattern id="mesh" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.15" fill="#858585" opacity=".33"/></pattern><filter id="shadow"><feGaussianBlur stdDeviation="10"/></filter></defs>
+  <ellipse cx="299" cy="451" rx="146" ry="20" fill="#111" opacity=".18" filter="url(#shadow)"/>
+  <path d="M203 78h194q18 0 18 20v320q0 20-18 20H203q-18 0-18-20V98q0-20 18-20z" fill="url(#body)" stroke="#555" stroke-width="2"/>
+  <path d="M207 91h186v304H207z" fill="url(#mesh)"/>
+  <circle cx="300" cy="175" r="56" fill="#111" stroke="#555" stroke-width="3"/><circle cx="300" cy="175" r="40" fill="#1d1d1d" stroke="#666" stroke-width="2"/><circle cx="300" cy="175" r="26" fill="#101010" stroke="#444" stroke-width="3"/><circle cx="300" cy="175" r="8" fill="#d87d4a"/>
+  <circle cx="300" cy="308" r="75" fill="#0c0c0c" stroke="#555" stroke-width="4"/><circle cx="300" cy="308" r="59" fill="url(#mesh)" stroke="#252525" stroke-width="4"/><circle cx="300" cy="308" r="28" fill="#191919" stroke="#555" stroke-width="3"/><circle cx="300" cy="308" r="8" fill="#292929"/>
+  <path d="M404 103v293" stroke="#555" stroke-width="2" opacity=".65"/>
+</svg>
